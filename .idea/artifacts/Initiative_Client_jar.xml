@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Initiative_Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Initiative_Client_jar</output-path>
+    <root id="archive" name="Initiative_Client.jar">
+      <element id="module-output" name="Initiative_Client" />
+    </root>
+  </artifact>
+</component>
